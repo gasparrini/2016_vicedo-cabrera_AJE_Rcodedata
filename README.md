@@ -1,5 +1,5 @@
 
-### Updated code from Vicedo-Cabrera et al, AJE 2016
+### Updated R code and data from Vicedo-Cabrera AJE 2016
 
 --------------------------------------------------------------------------------
 
