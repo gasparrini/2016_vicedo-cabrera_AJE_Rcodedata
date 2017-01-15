@@ -1,17 +1,18 @@
 ################################################################################
-# SUPPLEMENTAL MATERIAL of the article:
+# Updated version of the code for the analysis in:
+#
 #   "Association of inter and intra-day temperature change with mortality"
-#   Vicedo-Cabrera AM, Forsberg F, Tobias A, Zanobetti A, Schwartz J, 
+#   Vicedo-Cabrera AM, Forsberg F, Tobias A, Zanobetti A, Schwartz J,
 #     Armstrong B, Gasparrini A
 #   American Journal of Epidemiology - 2016
+#   http://www.ag-myresearch.com/2016_vicedo-cabrera_aje.html
 #
-# This code reproduces the analysis for London, UK
-#
-# 14 March 2016
-# * an updated version of this code, (hopefully) compatible with future
-#   versions of the software, is available at the personal website of the
-#   last author (www.ag-myresearch.com)
+# Update: 15 January 2017
+# * an updated version of this code, compatible with future versions of the
+#   software, is available at:
+#   https://github.com/gasparrini/2016_vicedo-cabrera_AJE_Rcodedata
 ################################################################################
+
 
 ################################################################################
 ## RR ESTIMATES OF THE DIFFERENT TEMPERATURE INDICATORS
